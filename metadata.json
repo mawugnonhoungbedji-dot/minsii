@@ -1,0 +1,9 @@
+
+{
+  "name": "Minsii - Marketplace Éducative Béninoise",
+  "description": "La première marketplace de confiance au Bénin pour trouver des enseignants à domicile qualifiés. Vérifiés, sécurisés, proches de vous.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
